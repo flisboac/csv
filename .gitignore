@@ -1,0 +1,6 @@
+build
+.*
+waf-*
+.waf-*
+*.sublime-project
+*.sublime-workspace
